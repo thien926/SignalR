@@ -9,5 +9,5 @@ PS G:\Git\SignalR\CoreMVCSignalDemoChat\CoreMVCSignalDemoChat> dotnet add packag
 
 ## Demo
 <div align="center">
-  <img alt="GIF" src="./Assets/CoreMVCSignalDemoChat/Demo.png" width="50%"/>
+  <img alt="GIF" src="./Assets/CoreMVCSignalDemoChat/Demo.png"/>
 </div>
