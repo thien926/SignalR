@@ -8,6 +8,6 @@ PS G:\Git\SignalR\CoreMVCSignalDemoChat\CoreMVCSignalDemoChat> dotnet add packag
 ```
 
 ## Demo
-<div style="width:60px ; height:60px">
-![Employee data](/Assets/CoreMVCSignalDemoChat/Demo.png?raw=true "Employee Data title")
-<div>
+<div align="center">
+  <img alt="GIF" src="./Assets/CoreMVCSignalDemoChat/Demo.png" width="50%"/>
+</div>
