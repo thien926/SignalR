@@ -14,12 +14,9 @@
 
         connection.on("ReceiveMessage", function (user, message) {
             var msg = message.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-            @* var li = document.createElement("li");
+            var li = document.createElement("li");
             document.getElementById("messagesList").appendChild(li);
-            li.textContent = `${user} says: ${message}`; *@
-
-            var li = `<li><b>${user}</b> : ${msg}</li>`;
-            document.getElementById("messagesList")
+            li.textContent = `${user} says: ${msg}`;
         });
 
         connection.start().then(function () {
